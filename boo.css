@@ -1,0 +1,66 @@
+@import url("./_reset.css");
+
+html  {
+  font-size: 18px;
+  border: 6px;
+  border-spacing: 10px;
+  border-top-style: solid;
+}
+h1  {
+  font-size: 2.4em;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px;
+}
+h2  {
+  font-size: 1.8em;
+  font-style: italic;
+  text-align: center;
+  padding: 20px;
+}
+h3  {
+  font-size: 1.6em;
+  padding: 30px;
+  font-weight: bold;
+  border: 2px;
+  border-top-style: solid;
+  margin-left: 300px;
+  margin-right: 260px;
+  text-align: center,justify;
+  padding-left: 220px;
+}
+h4   {
+  border: 2px;
+  border-bottom-style: solid;
+  padding: 30px;
+  margin-left: 320px;
+  margin-right: 250px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  text-align: center;justify;
+  font-size: 1.4em;
+
+}
+h5   {
+  text-align: center;
+  font-weight: bold;
+  padding: 20px;
+}
+h6   {
+  text-align: left;
+  font-size: 1.8em;
+  font-weight: bold;
+  padding: 20px;
+}
+h7   {
+  text-align: left;
+  font-size: 1.2em;
+  padding: 20px;
+  margin-left: 40px;
+}
+img {
+    float: right;
+    vertical-align: text-top;
+    margin-bottom: 40px;
+  }
+};
